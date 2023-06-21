@@ -1,0 +1,48 @@
+[
+    {
+        "number":"0",
+        "questionContent":"What is your favorite song to listen to while skating?",
+        "a":"''Eye of the Tiger'' by Survivor.",
+        "b":"''Can't Stop the Felling!'' by Justin Timberlake.",
+        "c":"''Uptown Funk'' by Mark Ronson ft.Bruno Mars.",
+        "d":"''Snap Out of It'' by Artic Monkeys."
+
+    },
+    {
+        "number":"1",
+        "questionContent":"What do you do when you fall while skating?",
+        "a":"Quickly get up and keep skating as if nothing happened.",
+        "b":"Make a funny face and laugh at yourself.",
+        "c":"Exaggerete a scream and do a dramatic movie-like fall.",
+        "d":"Stay on the ground for a few seconds before getting up."
+
+    },
+    {
+        "number":"2",
+        "questionContent":"What would be your ideal skate trick?",
+        "a":"A backflip with a twist.",
+        "b":"A perfect grind on a rail.",
+        "c":"A hand-slide trick in ''Tony Hawk'' style.",
+        "d":"Stylish and graceful jump over obstacles."
+
+    },
+    {
+        "number":"3",
+        "questionContent":"How do you dress for skating?",
+        "a":"Tight and comfortable sportswear.",
+        "b":"Colorful and eye-catching outfits to stand out.",
+        "c":"Urban and fashion clothing with branded sneakers.",
+        "d":"Whatever is comfortable and clean."
+
+    },
+    {
+        "number":"4",
+        "questionContent":"What do you do at the skatepark?",
+        "a":"Activate Pro Mode, practice new tricks and push my limits.",
+        "b":"Have fun and socialize with other skaters.",
+        "c":"Put on shows to impress people.",
+        "d":"Relax and observe others skaters."
+
+    }
+
+]
